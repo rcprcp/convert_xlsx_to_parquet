@@ -6,5 +6,7 @@ Although this does work for simple .xlsx files, there are still various data-dep
 
 ### Run the program: 
 It does not currently have a #! line, to select the interpreter. Use a command like this to run it:   
+
 ```shell
-python3 convert_xlsx_to_parquet``` 
+python3 convert_xlsx_to_parquet
+``` 
